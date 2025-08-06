@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aril 👋
 
-<!--
-**Uhycore/Uhycore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student at ITATS  
+💻 Learning Flutter, PHP, and Tailwind CSS  
+🎯 Interested in Mobile & Web Development
 
-Here are some ideas to get you started:
+## Skills
+- Flutter
+- PHP & Laravel
+- Tailwind CSS
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+📧 Email: aril@example.com  
+🔗 LinkedIn: [linkedin.com/in/aril](https://linkedin.com/in/aril)
